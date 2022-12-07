@@ -28,3 +28,7 @@ tags:
 Istio Explained_ Getting Started with Service Mesh  https://www.ibm.com/downloads/cas/XWN1WV9Q
 
 Share Process Namespace between Containers in a Pod  https://kubernetes.io/docs/tasks/configure-pod-container/share-process-namespace/
+
+Manage containers in namespaces by using nsenter https://www.redhat.com/sysadmin/container-namespaces-nsenter
+
+how-to-access-docker-containers-network-namespace-from-host  https://www.thegeekdiary.com/how-to-access-docker-containers-network-namespace-from-host/
