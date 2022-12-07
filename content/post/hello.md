@@ -32,3 +32,5 @@ Share Process Namespace between Containers in a Pod  https://kubernetes.io/docs/
 Manage containers in namespaces by using nsenter https://www.redhat.com/sysadmin/container-namespaces-nsenter
 
 how-to-access-docker-containers-network-namespace-from-host  https://www.thegeekdiary.com/how-to-access-docker-containers-network-namespace-from-host/
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/overview_of_containers_in_red_hat_systems/introduction_to_linux_containers?intcmp=701f20000012ngPAAQ&extIdCarryOver=true&sc_cid=701f2000001OH7EAAW
