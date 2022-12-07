@@ -26,3 +26,5 @@ tags:
 **Insert Lead paragraph here.**
 
 Istio Explained_ Getting Started with Service Mesh  https://www.ibm.com/downloads/cas/XWN1WV9Q
+
+Share Process Namespace between Containers in a Pod  https://kubernetes.io/docs/tasks/configure-pod-container/share-process-namespace/
