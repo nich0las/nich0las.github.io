@@ -37,3 +37,7 @@ how-to-access-docker-containers-network-namespace-from-host  https://www.thegeek
 k8s指南 https://kubernetes.feisky.xyz/concepts/components/apiserver
 
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/overview_of_containers_in_red_hat_systems/introduction_to_linux_containers?intcmp=701f20000012ngPAAQ&extIdCarryOver=true&sc_cid=701f2000001OH7EAAW
+
+
+Kubernetes deep dive: API Server - part 1 https://cloud.redhat.com/blog/kubernetes-deep-dive-api-server-part-1
+
