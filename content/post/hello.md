@@ -41,3 +41,5 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_ho
 
 Kubernetes deep dive: API Server - part 1 https://cloud.redhat.com/blog/kubernetes-deep-dive-api-server-part-1
 
+https://docs.google.com/drawings/d/1MtWL8qRTs6PlnJrW4dh8135_S9e2SaawT410bJuoBPk/edit
+
