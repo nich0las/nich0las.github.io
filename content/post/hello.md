@@ -40,3 +40,5 @@ tags:
 
 [kube-proxy iptables "nat" control flow](https://docs.google.com/drawings/d/1MtWL8qRTs6PlnJrW4dh8135_S9e2SaawT410bJuoBPk/edit)
 
+[kubeternetes指南](https://kubernetes.feisky.xyz/extension/ingress)
+
