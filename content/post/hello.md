@@ -42,3 +42,5 @@ tags:
 
 [kubeternetes指南](https://kubernetes.feisky.xyz/extension/ingress)
 
+[kubebyexample.com](https://kubebyexample.com/learning-paths/command-line-essentials/introduction)
+
